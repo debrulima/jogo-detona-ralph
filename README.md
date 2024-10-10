@@ -1,6 +1,8 @@
 # JSGame Detona Ralph
 
-![JSGame Detona Ralph Logo](logo.png)
+<p align="center">
+  <img src="https://github.com/debrulima/jogo-detona-ralph/blob/main/src/images/ralph.png">
+</p>
 
 Bem-vindo ao **JSGame Detona Ralph**! Este projeto é uma réplica (ou melhoria) do famoso jogo inspirado no filme *Detona Ralph*, desenvolvido durante o curso na **Digital Innovation One**. Neste jogo, você pode se divertir enquanto aprende sobre várias técnicas avançadas de desenvolvimento de jogos com **JavaScript**, **HTML5** e **CSS3**.
 
