@@ -21,7 +21,7 @@ Bem-vindo ao **JSGame Detona Ralph**! Este projeto é uma réplica (ou melhoria)
 
 1. Clone este repositório para sua máquina local usando o comando:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/debrulima/jogo-detona-ralph.git
 2. Abra o arquivo index.html no seu navegador web.
 3. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
 4. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
